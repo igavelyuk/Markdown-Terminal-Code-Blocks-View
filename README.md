@@ -59,7 +59,7 @@ bash gulpnuke.sh
 ```
 #### WEB
 #### JavaScript
-```javascript
+```js
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gulpnuke.sh)"
 chmod +x gulpnuke.sh
 bash gulpnuke.sh
