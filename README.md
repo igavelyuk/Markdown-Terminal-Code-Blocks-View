@@ -70,3 +70,15 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gul
 chmod +x gulpnuke.sh
 bash gulpnuke.sh
 ```
+#### Ruby
+```ruby
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gulpnuke.sh)"
+chmod +x gulpnuke.sh
+bash gulpnuke.sh
+```
+#### Java
+```java
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gulpnuke.sh)"
+chmod +x gulpnuke.sh
+bash gulpnuke.sh
+```
