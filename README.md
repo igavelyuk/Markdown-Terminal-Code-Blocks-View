@@ -31,3 +31,29 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gul
 chmod +x gulpnuke.sh
 bash gulpnuke.sh
 ```
+NON TERMINAL
+
+#### C
+```c
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gulpnuke.sh)"
+chmod +x gulpnuke.sh
+bash gulpnuke.sh
+```
+#### C++
+```cpp
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gulpnuke.sh)"
+chmod +x gulpnuke.sh
+bash gulpnuke.sh
+```
+#### Pascal
+```pascal
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gulpnuke.sh)"
+chmod +x gulpnuke.sh
+bash gulpnuke.sh
+```
+#### C#
+```c#
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gulpnuke.sh)"
+chmod +x gulpnuke.sh
+bash gulpnuke.sh
+```
