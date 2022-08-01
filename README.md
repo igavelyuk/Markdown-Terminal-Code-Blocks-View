@@ -64,8 +64,8 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gul
 chmod +x gulpnuke.sh
 bash gulpnuke.sh
 ```
-#### Python
-```Python
+#### python
+```python
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/n3g3n/gulpnuke.sh/main/gulpnuke.sh)"
 chmod +x gulpnuke.sh
 bash gulpnuke.sh
